@@ -1,16 +1,19 @@
-### Hi there 👋
+### You have reached Fernando's Github!
 
-<!--
-**fcladera/fcladera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD student at [GRASP Lab](https://www.grasp.upenn.edu/) working on UAV
+autonomy, embedded systems, event based perception, and UAV hardware.
 
-Here are some ideas to get you started:
+You may also want to check the [Kumar Robotics Github](https://github.com/KumarRobotics), 
+where we upload our project code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me if you are interested in working with me, or you would
+like to collaborate in a project!
+
+#### More about me
+ - [fcladera.com](https://fcladera.com)
+ - [@fclad](https://twitter.com/fclad) 
+
+#### 📫 How to reach me
+Email me at `echo "ZmNsYWRlcmFAZmNsYWRlcmEuY29tCg==" | base64 -d`
+
+[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcladera)](https://github.com/anuraghazra/github-readme-stats)
