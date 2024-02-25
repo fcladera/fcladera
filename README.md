@@ -9,8 +9,8 @@ Feel free to contact me if you are interested in working with me or would
 like to collaborate on a project!
 
 #### 🔗 More about me
- - [fcladera.com](https://fcladera.com)
- - [@fclad](https://twitter.com/fclad) 
+ - 🌎 [fcladera.com](https://fcladera.com)
+ - 💬 [@fclad](https://twitter.com/fclad) 
 
 #### 📫 How to reach me
 Email me at `echo "ZmNsYWRlcmFAZmNsYWRlcmEuY29tCg==" | base64 -d`.
