@@ -13,6 +13,6 @@ like to collaborate on a project!
  - 💬 [@fclad](https://twitter.com/fclad) 
 
 #### 📫 How to reach me
-Email me at `echo "ZmNsYWRlcmFAZmNsYWRlcmEuY29tCg==" | base64 -d`.
+ - Email me at [fcladera@fcladera.com](mailto:fcladera@fcladera.com).
 
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcladera)](https://github.com/anuraghazra/github-readme-stats)
